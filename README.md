@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ahmedelbaiomy40@gmail.com**
 
-- ⚡ Fun fact **I love Cars(🚗), Codeing(💻), Traveling(🌍), Photography(📷) and Pasta béchamel(🍲).**
+- ⚡ Fun fact **I love Cars(🚗), Coding(💻), Traveling(🌍), Photography(📷) and Pasta béchamel(🍲).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
