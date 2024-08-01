@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedelbaiomy" alt="ahmedelbaiomy" /></a> </p>
 
-- 🔭 I’m currently working on **laravel projects**
+- 🔭 I’m currently working on **laravel projects /Angular.js projects**
 
-- 🌱 I’m currently learning **laravel/React.js**
+- 🌱 I’m currently learning **laravel/Angular.js**
 
 - 💬 WhatsApp [(+20) 010-28720750]
 
-- 💬 Ask me about **laravel,react.js,JavaScript**
+- 💬 Ask me about **laravel,Angular.js,JavaScript**
 
 - 📫 How to reach me **ahmedelbaiomy40@gmail.com**
 
